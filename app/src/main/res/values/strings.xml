@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartButton</string>
+    <string name="TextCh">Hello</string>
+    <string name="buttonch">Guess</string>
+    <string name="textcase1">Hello Again</string>
+    <string name="textcase2">Goodbye</string>
+    <string name="Hello">Enter no between 0-50</string>
+    <string name="enterNo"> </string>
+    <string name="tries_left_10">Tries Left=10</string>
+    <string name="made_by_narendra">Made By Narendra</string>
+</resources>
